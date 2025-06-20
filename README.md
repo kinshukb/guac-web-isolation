@@ -14,7 +14,7 @@ A lightweight web isolation solution using Apache Guacamole and Docker. Users ac
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/guacamole-web-isolation.git
-cd guacamole-web-isolation
+git clone https://github.com/YOUR_USERNAME/guac-web-isolation.git
+cd guac-web-isolation
 docker-compose up -d
 bash scripts/register_connection.sh
